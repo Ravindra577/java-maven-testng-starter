@@ -5,7 +5,7 @@
   <version>0.0.1</version>
   <name>webapp</name>
   <packaging>war</packaging>
-  <name>java_maven_testng_starter</name>
+  
   <description>Java, Maven, TestNg starter project</description>
   <build>
     <sourceDirectory>src</sourceDirectory>
